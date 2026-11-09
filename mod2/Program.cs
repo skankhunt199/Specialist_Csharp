@@ -1,4 +1,6 @@
-﻿namespace mod2
+﻿using System;
+
+namespace mod2
 {
     internal class Program
     {
