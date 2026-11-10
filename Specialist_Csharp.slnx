@@ -1,4 +1,5 @@
 <Solution>
   <Project Path="mod2/mod2.csproj" />
   <Project Path="mod3/mod3.csproj" Id="6a478c90-878b-4c7e-9877-79f76394ceff" />
+  <Project Path="mod4/mod4.csproj" Id="ebacf750-1b23-464d-a8b4-ad9d910cf47e" />
 </Solution>
